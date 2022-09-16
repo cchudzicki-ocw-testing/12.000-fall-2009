@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, structure, a note on Mission classes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
